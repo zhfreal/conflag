@@ -1,8 +1,8 @@
 # conflag
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/nadoo/conflag?style=flat-square)](https://goreportcard.com/report/github.com/nadoo/conflag)
-[![GitHub tag](https://img.shields.io/github/v/tag/nadoo/conflag.svg?sort=semver&style=flat-square)](https://github.com/nadoo/conflag/releases)
-[![Go Document](https://img.shields.io/badge/go-document-blue.svg?style=flat-square)](https://pkg.go.dev/github.com/nadoo/conflag )
+[![Go Report Card](https://goreportcard.com/badge/github.com/zhfreal/conflag?style=flat-square)](https://goreportcard.com/report/github.com/zhfreal/conflag)
+[![GitHub tag](https://img.shields.io/github/v/tag/zhfreal/conflag.svg?sort=semver&style=flat-square)](https://github.com/zhfreal/conflag/releases)
+[![Go Document](https://img.shields.io/badge/go-document-blue.svg?style=flat-square)](https://pkg.go.dev/github.com/zhfreal/conflag )
 
 conflag is a drop-in replacement for Go's standard flag package with config file support.
 
@@ -15,7 +15,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/nadoo/conflag"
+	"github.com/zhfreal/conflag"
 )
 
 var conf struct {

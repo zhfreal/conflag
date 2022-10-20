@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/nadoo/conflag"
+	"github.com/zhfreal/conflag"
 )
 
 var conf struct {
